@@ -1,2 +1,5 @@
 # cybersecurity-portfolio
-portfolio of my ctf experiences
+
+I started out as a computer science student but quickly realized that while I enjoy coding projects that achieve a tangible goal, I didn't enjoy the types of coding or the job landscape I saw in professional computer science. As I looked around for a new major, I came across cybersecurity, a field that allows me to continue coding small projects, learning technical skills, and focus on problem solving but felt more aligned with my future goals.
+
+I enjoyed my experience in the NCL CTF. I was able to put into practice a lot of things I've learned in my courses but was never able to experience in an unguided environment. I really enjoyed the password cracking challenges, especially the challaenges that required me to do more than make a dictionary and run a hashcat configuration. Overall, it was exhausting spending as much time as possible in every challenge I could over the course of two weekends but I felt quite proud knowing I had improved by leaps and bounds in every area I pushed myself in.
